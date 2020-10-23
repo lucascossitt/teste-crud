@@ -12,6 +12,11 @@
     - Atualizar usuários
     - Remover usuários
   
+## Instruções para entrega 
+  - Faça um fork deste projeto
+  - Crie uma pasta com seu nome 
+  - Depois de concluído faça um pull request
+  
   ## Bônus
   
   > Obs: Os bônus não são obrigatórios, porém contarão uns pontos a mais :D
