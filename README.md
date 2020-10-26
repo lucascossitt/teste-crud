@@ -8,9 +8,14 @@
   
   - A API precisa conter as seguintes funcionalidades: 
     - Consultar usuários (com e sem filtro)
+      - GET /usuarios (retorna todos usuários)
+      - GET /usuarios/id (retorna todos os dados de um usuário)
     - Adicionar usuários
+       - POST /usuarios
     - Atualizar usuários
+      - PUT /usuarios/id
     - Remover usuários
+      - DELETE /usuarios/id
   
 ## Instruções para entrega 
   - Faça um fork deste projeto
