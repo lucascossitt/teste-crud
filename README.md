@@ -26,6 +26,6 @@
   
   > Obs: Os bônus não são obrigatórios, porém contarão uns pontos a mais :D
   
-    - Criar um Front-End SPA (single page application) para consumir a API criada utilizando VueJS
+    - Criar um Front-End SPA (single page application) ou SSR (server side rendering) para consumir a API criada utilizando VueJS
     - Rodar o ambiente em Docker utilizando o docker-compose
-    
+    - Criar um app para consumir a API
