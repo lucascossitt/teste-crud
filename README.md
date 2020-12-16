@@ -28,4 +28,4 @@
   
     - Criar um Front-End SPA (single page application) ou SSR (server side rendering) para consumir a API criada utilizando VueJS
     - Rodar o ambiente em Docker utilizando o docker-compose
-    - Criar um app para consumir a API
+    - Criar um app mobile para consumir a API
