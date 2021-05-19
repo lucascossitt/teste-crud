@@ -27,4 +27,4 @@
   > Obs: Os bônus não são obrigatórios, porém contarão uns pontos a mais :D
   
     - Criar uma aplicação em VueJS para consumir a API  
-    - Criar um app mobile para consumir a API
+
